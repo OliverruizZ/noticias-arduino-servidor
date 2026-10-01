@@ -3,5 +3,10 @@
   "version": "1.0.0",
   "private": true,
   "type": "module",
-  "engines": { "node": "22.x" }
+  "engines": {
+    "node": "22.x"
+  },
+  "dependencies": {
+    "rss-parser": "3.13.0"
+  }
 }
